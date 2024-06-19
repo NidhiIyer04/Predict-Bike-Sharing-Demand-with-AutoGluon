@@ -9,6 +9,7 @@ This project focuses on predicting bike-sharing demand using the AutoGluon libra
 3. **Model Training with AutoGluon**
 4. **Comparing Model Performance**
 5. **Competition Report**
+6. **Scores Table**
 
 ## Loading the Dataset
 
