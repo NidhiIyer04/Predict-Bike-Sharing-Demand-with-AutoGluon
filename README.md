@@ -52,3 +52,11 @@ This project focuses on predicting bike-sharing demand using the AutoGluon libra
   - Discussed how additional features and hyperparameter changes improved the Kaggle score.
 - **Explained why changes to hyperparameters affected the model’s performance.**
   - Included a table outlining each hyperparameter used along with the corresponding Kaggle score. Explain the impact of these changes on model performance.
+
+## Scores Table
+| Model        | Searcher | Num Trials | Hyperparameters | Score   |
+|--------------|----------|------------|-----------------|---------|
+| initial      | default  | default    | default         | 1.80663 |
+| add_features | default  | default    | default         | 0.48535 |
+| hpo          | random   | 5          | light           | 0.50336 |
+
